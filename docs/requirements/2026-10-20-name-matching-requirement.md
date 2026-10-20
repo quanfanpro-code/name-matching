@@ -91,7 +91,7 @@
 |---|---|
 | Q1 架构 | C：分层——通用名称归一引擎 + 往来单位归一方法论层 |
 | Q2 自动化程度 | C：分级合并——确定性自动合；近似名出候选+证据由人确认；拿不准进存疑 |
-| Q3 工商衔接 | B：不内置取数，引用 related-party-identification 取数层 |
+| Q3 工商衔接 | B：不内置取数，引用 related-party-identification 取数层 —— **2026-10-20 已被 0002 号决策取代：改为自包含内置查询** |
 | Q4 技能名 | name-matching |
 | 发布 | 开源四件套，AGPL-3.0，quanfanpro-code 名下 |
 
